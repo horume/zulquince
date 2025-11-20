@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url('fondo.png') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Georgia', serif;
+    text-align: center;
+}
+
+.decor-top .mariposas {
+    width: 90%;
+    margin-top: 10px;
+}
+
+.content {
+    margin-top: 80px;
+}
+
+.content h1 {
+    font-size: 60px;
+    color: #d96c8b;
+}
+
+.content h2 {
+    font-size: 32px;
+    margin-top: -10px;
+}
+
+.decor-bottom .flores-bottom {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.flores-esquina {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 350px;
+}
